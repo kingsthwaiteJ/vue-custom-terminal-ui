@@ -1,13 +1,12 @@
-# Vuejs terminal UI emulator
+# Vue Custom Terminal UI
 
-Vuejs component for displaying UI element that acts as console terminal. Actual terminal logic code forked from [Ptty](https://github.com/pachanka/Ptty).
-
-## Demo/sandbox available here:
-[![Edit Vue Template](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/4xxxkznk74)
+A custom Vue.js terminal component that gives access to the browser's console, along with access to some cool custom methods.
 
 ## Install
 
-`npm i vue-terminal-ui --save`
+```
+  npm i vue-terminal-ui --save
+```
 
 ## Usage
 
